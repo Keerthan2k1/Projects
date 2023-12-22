@@ -9,4 +9,4 @@ All the Contents regarding the project is been shown in simpler way by posting m
 It has all the information regarding features, technologies used, screenshots of the website and Dashboard.
 
 ## Features
-he Student Result Analysis project is featured to analyze performance data of students academic year, it shows student scores,subject-wise marks etc.
+The Student Result Analysis project is featured to analyze performance data of students academic year, it shows student scores,subject-wise marks etc.
